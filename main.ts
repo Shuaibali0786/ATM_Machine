@@ -1,5 +1,5 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
-
 let myBalance = 10000; // Doller
 let myPin = 1234;
 
